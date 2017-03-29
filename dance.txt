@@ -1,2 +1,8 @@
 This is another file - added as a part to understand gi staging.
 This line of text is added using GitHub web. This changes will be pulled using command line.
+This line is added on the computer, and the changes done in the above line is pulled using the command:
+	git pull origin master
+
+The editing done on the computer is pushed using the following command.
+
+	git push origin master
