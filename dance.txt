@@ -5,4 +5,8 @@ This line is added on the computer, and the changes done in the above line is pu
 
 The editing done on the computer is pushed using the following command.
 
-	git push origin master
+	git push origin master.
+	
+	
+-- This changes is added and committed using Git-GUI tool.
+

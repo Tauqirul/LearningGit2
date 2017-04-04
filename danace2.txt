@@ -1,1 +1,2 @@
 This is another file.
+this line is of code is comitted using Git-GUI tool.
